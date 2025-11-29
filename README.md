@@ -2,7 +2,17 @@
 
 ### Data science/ Data analysis 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Areej973&label=Profile views&color=0e75b6&style=flat" alt="Areej973" /> </p>
+### 👩‍💻 About Me
+
+I’m Areej Saad, a data enthusiast passionate about **Data Science, Data Analysis, and solving real-world problems using data**.  
+I enjoy transforming raw data into meaningful insights that support better decision-making.
+
+With strong skills in **Excel**, **Power BI**, and **Python**, I focus on exploring data, creating dashboards, and uncovering hidden patterns.  
+I’m also currently learning **Machine Learning** and constantly improving my analytical and technical skills.
+
+🌱 **Currently learning:** Machine Learning, Data Visualization, and advanced analytics  
+📊 **Interested in:** Data analysis, business intelligence, and predictive models  
+
 
 - 📫 How to reach me **areej99saad@gmail.com**
 
